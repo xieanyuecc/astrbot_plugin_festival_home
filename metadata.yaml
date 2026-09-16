@@ -1,0 +1,10 @@
+name: astrbot_plugin_festival_home
+desc: 节日小屋——让 AI 住进一条有节日的街。出门撞见街景，抬头看见月亮；中秋（2026-2035）前后街上就是中秋的样子。
+author: junqian-dev
+version: 0.1.0
+support_platforms:
+  - telegram
+  - discord
+  - qq_official
+  - satori
+astrbot_version: ">=4.16,<5"
